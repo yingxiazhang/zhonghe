@@ -1,0 +1,54 @@
+.Container 
+	{
+
+	left:0px;
+	width:600px;
+	height:474px;
+	}
+#Scroller-1 
+	{
+	position:absolute;
+	overflow:hidden;
+	width:600px;
+	height:474px;
+	}
+#Scroller-2 
+	{
+	position:absolute;
+	overflow:hidden;
+	width:600px;
+	height:474px;
+	text-align:
+	}
+.Scroller-Container 
+	{
+	position:absolute;
+
+	line-height:21px;
+
+	}
+#Scrollbar-Container 
+	{
+	position:relative;
+	width:9px;
+
+	}
+.Scrollbar-Track 
+	{
+	width:9px;
+	height:474px;
+	position:absolute;
+
+	left:620px;
+	background:url(../images/xian_02.html) center top no-repeat;
+	}
+.Scrollbar-Handle 
+	{
+	position:absolute;
+	width:7px;
+	padding-left:1px;
+	height:174px;
+
+	cursor:hand;
+	cursor:pointer;
+	}
